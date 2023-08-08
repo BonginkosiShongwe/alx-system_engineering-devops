@@ -5,3 +5,4 @@ The script display  the content of /etc/passwd and /etc/hosts.
 The 4-lastlines script display the last 10 lines of /etc/passwd.
 The 5-firstlines script display  the first 10 lines of /etc/passwd.
 The 6-third_line script displays the third line of the file iacta.
+The 7-file script  creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) 
